@@ -31,3 +31,18 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
   <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </div>
 
+### Projetos Data Sciense:
+
+Python:
+* [Análise dos dados e Previsão de Lucro para os anos seguintes - Indian Unicorn startups](https://abrir.link/qHRtB)
+* [KMeans - Agrupando clientes por Consumo de energia - Individual household electric power consumption ](Mini-Projeto_AgrupandoClientesporConsumodeEnergia.pdf)
+
+R:
+* [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
+
+Spark e SQL:
+* [Análise de Risco no Transporte Público de Londres](https://abrir.link/LlG6k)
+
+### Projetos Data Analytics:
+
+----
