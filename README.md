@@ -1,4 +1,4 @@
-###   Olá meu é Gisleine Moreno 
+###   Olá meu é Gisleine Moreno 📉
 Durante minha trajetório profissional, atuei como Analista de Dados, Analista de BI e gestora de equipes, possuo habilidades analíticas, capacidade de trabalho em equipe, atenção aos detalhes dos dados da organização, além de produzir relatórios analíticos e tomar decisões para resolução de problemas. O aprimoramento das minhas habilidades foi acontecendo ao longo dos anos, pois através de estudos e aprendizados, pude aplicar os conhecimentos nas tarefas exercidas durante minha trajetória profissional.
 Sou formada em sistemas de informação, com especialidade em Business Inteligence com Big Data na Faculdade Impacta, além de possuir MBA em Inteligência artificial com Data Analytics no ICMC.
 
