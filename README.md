@@ -46,4 +46,7 @@ Spark e SQL:
 ### Projetos de Análises de Dados:
 *  [PowerBI](https://github.com/gisleinemoreno/PowerBI)
 
+## Contribuindo
 
+Contribuições na Kaggle
+* [OCR_Tesseract](https://www.kaggle.com/code/gisleine/notebook475dffa575/settings)
