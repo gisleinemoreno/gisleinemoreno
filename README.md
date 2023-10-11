@@ -35,7 +35,7 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 
 Python:
 * [Regressão Linear - Análise Preditiva de Lucro para os anos seguintes - Indian Unicorn startups](https://github.com/gisleinemoreno/data_science/blob/main/Indian_Unicorn_startups_2023.ipynb)
-* [KMeans - Agrupando clientes por Consumo de energia - Individual household electric power consumption ]([Mini-Projeto_AgrupandoClientesporConsumodeEnergia.pdf](https://github.com/gisleinemoreno/data_science/blob/main/Mini-Projeto_AgrupandoClientesporConsumodeEnergia.ipynb))
+* [KMeans - Agrupando clientes por Consumo de energia - Individual household electric power consumption ](https://github.com/gisleinemoreno/data_science/blob/main/Mini-Projeto_AgrupandoClientesporConsumodeEnergia.ipynb)
 
 R:
 * [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
