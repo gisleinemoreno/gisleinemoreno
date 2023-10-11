@@ -49,4 +49,4 @@ Spark e SQL:
 ## Contribuindo
 
 Contribuições na Kaggle
-* [OCR_Tesseract](https://www.kaggle.com/code/gisleine/notebook475dffa575/settings)
+* [OCR_Tesseract](https://www.kaggle.com/code/gisleine/notebook475dffa575/notebook)
