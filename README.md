@@ -43,7 +43,8 @@ R:
 Spark e SQL:
 * [Análise de Risco no Transporte Público de Londres](https://github.com/gisleinemoreno/data_science/blob/main/PySpark_SQL.ipynb)
 
-### Projetos de Análises de Dados:
+### Projetos de Análises Descritivas:
+
 *  [PowerBI](https://github.com/gisleinemoreno/PowerBI)
 
 ## Contribuindo
