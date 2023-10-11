@@ -34,7 +34,7 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 ### Projetos Data Sciense:
 
 Python:
-* [Análise dos dados e Previsão de Lucro para os anos seguintes - Indian Unicorn startups](https://abrir.link/qHRtB)
+* [Regressão Lonear - Análise Preditiva de Lucro para os anos seguintes - Indian Unicorn startups](https://github.com/gisleinemoreno/data_science/blob/main/Indian_Unicorn_startups_2023.ipynb)
 * [KMeans - Agrupando clientes por Consumo de energia - Individual household electric power consumption ](Mini-Projeto_AgrupandoClientesporConsumodeEnergia.pdf)
 
 R:
