@@ -38,7 +38,7 @@ Python:
 * [KMeans - Agrupando clientes por Consumo de energia - Individual household electric power consumption ](https://github.com/gisleinemoreno/data_science/blob/main/Mini-Projeto_AgrupandoClientesporConsumodeEnergia.ipynb)
 
 R:
-* [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
+* [Prevendo o Consumo de Energia de Carros Elétricos](https://github.com/gisleinemoreno/data_science/blob/main/Projeto1.R)
 
 Spark e SQL:
 * [Análise de Risco no Transporte Público de Londres](https://abrir.link/LlG6k)
