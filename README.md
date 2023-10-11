@@ -43,10 +43,7 @@ R:
 Spark e SQL:
 * [Análise de Risco no Transporte Público de Londres](https://abrir.link/LlG6k)
 
-### Projetos Data Analytics:
-PowerBI
-* [Análise de Dados Financeiros](Dashboard_Financeira.jpg)
-  <p align="center">
-  <img src="Dashboard_Financeira.jpg" >
-  </p>
+### Projetos de Análises de Dados:
+[PowerBI](https://github.com/gisleinemoreno/PowerBI)
+
 
