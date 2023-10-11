@@ -41,7 +41,7 @@ R:
 * [Prevendo o Consumo de Energia de Carros Elétricos](https://github.com/gisleinemoreno/data_science/blob/main/Projeto1.R)
 
 Spark e SQL:
-* [Análise de Risco no Transporte Público de Londres](https://abrir.link/LlG6k)
+* [Análise de Risco no Transporte Público de Londres](https://github.com/gisleinemoreno/data_science/blob/main/PySpark_SQL.ipynb)
 
 ### Projetos de Análises de Dados:
 *  [PowerBI](https://github.com/gisleinemoreno/PowerBI)
