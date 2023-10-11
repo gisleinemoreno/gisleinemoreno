@@ -44,6 +44,6 @@ Spark e SQL:
 * [Análise de Risco no Transporte Público de Londres](https://abrir.link/LlG6k)
 
 ### Projetos de Análises de Dados:
-[PowerBI](https://github.com/gisleinemoreno/PowerBI)
+*  [PowerBI](https://github.com/gisleinemoreno/PowerBI)
 
 
